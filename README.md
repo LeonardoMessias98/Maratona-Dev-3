@@ -6,4 +6,4 @@ e para o armazenamento de dados usando Postgresql
 Esse projeto foi proposto pela Rockeatseat como fonte de introdução a programação e aprendizado do Javascript
 
 # Alerta:
-caso não venha funcionar, digite " npm install express ", não consegui importar o node_modules pois são muitos arquivos
+digite " npm install ", não consegui importar o node_modules pois são muitos arquivos
